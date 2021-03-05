@@ -103,6 +103,7 @@ namespace CNC12.Model
                             instance.machinestate = Machine3State.Stopping;
                         }
                         break;
+                        // vcl
                     case 2:
                         if (str.Stat == 1)
                         {
