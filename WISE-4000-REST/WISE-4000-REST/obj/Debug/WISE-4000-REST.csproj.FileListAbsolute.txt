@@ -1,0 +1,38 @@
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.exe
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.pdb
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Form1.resources
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Properties.Resources.resources
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.exe
+C:\Users\HP\Desktop\WISE\Sample Code\WISE\Win32\CSharp\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.pdb
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.exe.config
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.exe
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.pdb
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csprojAssemblyReference.cache
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Form1.resources
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Properties.Resources.resources
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csproj.GenerateResource.cache
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csproj.CoreCompileInputs.cache
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.exe
+C:\Users\Laptop MSI\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.pdb
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.exe.config
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.exe
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.pdb
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csprojAssemblyReference.cache
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Form1.resources
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Properties.Resources.resources
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csproj.GenerateResource.cache
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csproj.CoreCompileInputs.cache
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.exe
+C:\Users\Laptop MSI\OneDrive\Documents\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.pdb
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.exe.config
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.exe
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.pdb
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.exe
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\bin\Debug\WISE-4000-REST.pdb
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Form1.resources
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE_4000_REST.Properties.Resources.resources
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csproj.GenerateResource.Cache
+E:\RAVproject\WISE4051_Project\WISE-4000-REST\WISE-4000-REST\obj\Debug\WISE-4000-REST.csprojResolveAssemblyReference.cache
